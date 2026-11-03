@@ -13,6 +13,8 @@ Traditional agricultural supply chains involve multiple intermediaries (local ag
 Innovation and Uniqueness of the Solution:
 Unlike standard classifieds or basic e-commerce portals, AgriChain Direct integrates AI-driven demand forecasting (analyzing historical consumption trends, weather forecasts, and regional festival cycles) with dynamic route optimization and FPO-level batch aggregation. This predictive framework aligns crop harvesting schedules directly with market demand, minimizing transit spoilage and maximizing supply chain efficiency.
 
+<img src="C:\Users\acer\Downloads\804d285c-8d67-49f8-ab30-51b42a9e70d3.png">
+
 Technical Approach
 Technologies to Be Used:
 
