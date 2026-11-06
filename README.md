@@ -79,4 +79,4 @@ McKinsey & Company. (2020). Agriculture supply-chain optimization and value crea
 
 Srivastava, V., & Verma, M. (2024). Empowering Agriculture: e-NAM's Effective Supply Chain Management Solutions for India's Marketing Challenges. International Journal of Advanced Research in Biological Sciences, 11(4), 47–50.
 
-<img width="1024" height="559" alt="c1591801-a33d-4a71-9817-6790d362ca5b" src="https://github.com/user-attachments/assets/3395d258-1f0a-420a-b7ca-1caafd1b5418" />
+<img width="1024" height="559" alt="c1591801-a33d-4a71-9817-6790d362ca5b" src="https://github.com/user-attachments/assets/2d58c969-8966-4611-be63-275deb2dce11" />
